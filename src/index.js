@@ -1,2 +1,3 @@
 import './style.css';
-import functiom from './module/function.js';
+import { stringlength } from './module/function.js';
+stringlength();
