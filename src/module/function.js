@@ -2,5 +2,6 @@ const stringlength = (str) => {
    return str.length;
  };
  
- export default stringlength;
+// eslint-disable-next-line no-undef
+module.exports = {stringlength};
  
