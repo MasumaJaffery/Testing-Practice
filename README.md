@@ -70,6 +70,26 @@ For more information on the importance of a professional README for your reposit
 **[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+## Testing Template:
+
+describe('MyTestClass', () => {
+  beforeEach(() => {
+    // Set up any necessary objects or data for your tests
+  });
+  
+  afterEach(() => {
+    // Clean up any resources used by your tests
+  });
+  
+  test('should do something', () => {
+    // Write your test case here
+  });
+  
+  test('should do another thing', () => {
+    // Write another test case here
+  });
+});
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
